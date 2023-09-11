@@ -7,7 +7,16 @@ p{
 }
 img {
     border-radius: 50% ;
+    height: 400;
 }
 body{
     background-color: #CCD5AE;
+}
+hr{
+    /* background-color: white; */
+    border-style: dotted none none; 
+    /* height: 0;  */
+    width: 30%;
+    border-color: gray;
+    border-width: 5px;
 }
