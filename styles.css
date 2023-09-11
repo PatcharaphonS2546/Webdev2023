@@ -10,7 +10,7 @@ img {
     height: 400;
 }
 body{
-    background-color: #CCD5AE;
+    margin: 0;
 }
 hr{
     /* background-color: white; */
@@ -19,4 +19,16 @@ hr{
     width: 30%;
     border-color: gray;
     border-width: 5px;
+    margin-bottom: 0;
+}
+.header{
+    margin-bottom: 0;
+    background-color: #0b9716;
+}
+.middle{
+    margin-top: 0;
+    background-color: #F94C10;
+}
+a {
+    background-color: cornsilk;
 }
